@@ -17,8 +17,8 @@ mitm
 
 const $ = new Env('京东自动组队-joy');
 
-TG_BOT_TOKEN=""
-TG_USER_ID="-1001410572357"
+TG_BOT_TOKEN="1477680208:AAHsDGEFkq3RAGJWThprKIYky6EFp68sNTo"
+TG_USER_ID="806473535"
 TG_API_HOST="api.telegram.org"
 
 
